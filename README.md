@@ -1,6 +1,6 @@
 # KPIs dashboard
 
-A task for pfleglisoft.
+A task for pfleglisoft. One-day work.
 
 Based on Meteor + Vue.js + Vuetify.
 Some boilerplate code from https://github.com/ackzell/meteor-vuetify/
