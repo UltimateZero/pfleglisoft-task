@@ -97,4 +97,4 @@ function seed() {
 
 
 // Uncomment the following line to seed the database, you probably have to refresh the page afterwards
-// seed()
+seed()
