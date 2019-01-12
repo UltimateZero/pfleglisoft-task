@@ -19,7 +19,7 @@ I had no idea what's _requests_ so I just assume it's the total customers count 
 
 Apparently there were supposed to be some images above each KPI, but they weren't visible in _kpis.png_ so I just left them blank.
 
-Go to _imports/api/db.js_ and uncomment the `seed()` function call to seed the database with random data on the first run.
+Go to _server/main.js_ and uncomment the `seed()` function call to seed the database with random data on the first run.
 
 **Steps to run**
 

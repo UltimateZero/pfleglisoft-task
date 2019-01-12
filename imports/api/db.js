@@ -47,7 +47,7 @@ Reviews.schema = new SimpleSchema({
 Reviews.attachSchema(Reviews.schema);
 
 
-function seed() {
+export function seed() {
     Companies.remove({});
     Customers.remove({});
     Orders.remove({});
@@ -94,7 +94,3 @@ function seed() {
 
     console.log(Reviews.find().fetch());
 }
-
-
-// Uncomment the following line to seed the database, you probably have to refresh the page afterwards
-// seed()
