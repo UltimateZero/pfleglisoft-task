@@ -6,7 +6,7 @@
     <v-flex class="primary--text font-weight-bold title">
       <slot name="percentage"></slot>
     </v-flex>
-    <v-flex class="primary--text body-2">
+    <v-flex class="primary--text body-2 font-weight-bold">
       <slot name="title"></slot>
     </v-flex>
     <v-flex>
